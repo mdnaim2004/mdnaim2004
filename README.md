@@ -6,9 +6,11 @@
 
 <!-- Side GIF -->
 <a href="#">
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350" align="right" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
 </a>
 
+
+  
 # Hi, I'm Naim, <br><br>
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  
