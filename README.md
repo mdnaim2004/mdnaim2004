@@ -1,116 +1,24 @@
-<!-- HEADER -->
-# 👨‍💻 Md Naim  
-![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge)
-![badge](https://img.shields.io/badge/Exploring-AI%20%7C%20ML%20%7C%20DL-orange?style=for-the-badge&logo=tensorflow)
+# 💫 About Me:
+Hi, I'm Naim, <br><br>I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  <br>I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  <br>I like working on tasks that help me understand how things work behind the scenes.  <br>I'm focused on growing step by step and building a strong foundation for my future in the tech field.<br>
 
-<!-- Banner -->
-<img src="https://camo.githubusercontent.com/bef8f17b624ff4e…6666f6e7453697a653d333526666f6e74416c69676e3d3430" width="100%"/>
 
-<!-- Side GIF -->
-<a href="#">
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300" align="right" />
-</a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/naim.islam.411974) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-naim-00a164381/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30657242/naim-islam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://x.com/naimislam16543) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/naimislam16543) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnaim16543@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdnaim2004&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 About Me
-Hi, I’m **Naim**, a CSE student at **Pundra University of Science and Technology**.  
-I’m passionate about **Artificial Intelligence** and **Machine Learning**, especially how data and algorithms combine to create intelligent solutions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
-I love exploring new tools, frameworks, and model architectures while continuously improving my understanding of ML/DL fundamentals.  
-My learning approach is hands-on — I enjoy building projects, analyzing real datasets, and turning ideas into functional systems.
-
-My long-term goal is to grow as an **AI/ML Engineer** and contribute to impactful technology that solves meaningful real-world problems.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mdnaim2004&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Tools
-
-### 🔹 **Languages**
-C · C++ · Java · Python · JavaScript (ES6+) · SQL  
-
-### 🔹 **AI / ML / DL**
-NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow · OpenCV  
-
-### 🔹 **Data Visualization**
-Matplotlib · Seaborn · Plotly  
-
-### 🔹 **Web Development**
-React · Tailwind CSS · HTML5 · CSS3  
-
-### 🔹 **Backend & Databases**
-Node.js · Express.js · Firebase · MongoDB  
-
-### 🔹 **Tools**
-Git · GitHub · Jupyter Notebook · VS Code · Docker (Learning)
-
----
-
-## 🎯 Focus Areas
-- Machine Learning (Supervised & Unsupervised Learning)  
-- Deep Learning (CNNs, Vision Models, Transfer Learning)  
-- Data Science (EDA, Visualization, Kaggle Practice)  
-- Frontend Development (React + Tailwind)  
-- API Development & Firebase Integration  
-
----
-
-## 📌 Projects & Practice
-
-I actively work on:
-
-- Kaggle competitions & real-world dataset analysis  
-- Computer Vision projects (classification, detection, augmentation)  
-- End-to-end ML pipelines: preprocessing → training → evaluation  
-- Web apps: React UI + backend with Node.js / Firebase / MongoDB  
-- Mini AI research and experimental model building  
-
----
-
-## 📚 What I'm Learning Now
-- Advanced PyTorch & neural network optimization  
-- Model deployment (Flask, FastAPI, Streamlit, ONNX)  
-- Better React patterns & performance optimization  
-- Clean code, scalable architecture & modern dev tools  
-
----
-
-## 🤝 Collaboration
-I enjoy working with others on:
-
-✔ AI / ML / DL Projects  
-✔ Data Science & Kaggle Work  
-✔ Web Development  
-✔ Open Source Contributions  
-
-If you have a dataset, idea, or collaboration proposal — I’d love to connect!
-
----
-
-## 📬 Get in Touch
-
-- **Email:** naim.cse2004@gmail.com  
-- **Kaggle:** https://www.kaggle.com/mdnaimislam165436  
-- **LinkedIn:** https://www.linkedin.com/in/md-naim-00a164381/  
-- **Twitter/X:** https://x.com/naimislam16543  
-- **LeetCode:** https://leetcode.com/u/naim2004/  
-- **Portfolio:** (Add your website here)
-
----
-
-## ⭐ Optional Enhancements
-
-### 📊 GitHub Stats  
-```
-![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-```
-
-### 🧮 Top Languages  
-```
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
-
----
-
-## ✨ Thanks for visiting!  
-Let’s build something amazing together. 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
