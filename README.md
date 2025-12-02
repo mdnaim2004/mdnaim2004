@@ -12,7 +12,10 @@
 ---
 
 ## About Me
-Hi, I'm Naim, a CSE Student passionate about exploring ML & AI. Currently I'm learning and building smarter models to solve real world problems using data and Algorithms.
+Hi, I’m Naim, a CSE student at Pundra University of Science and Technology.
+I’m passionate about Artificial Intelligence and Machine Learning, and I enjoy working with data to uncover patterns and build intelligent systems.
+I’m always exploring new tools, technologies, and techniques to improve my skills and stay updated with the latest developments in the tech world.
+I believe in learning by doing and love turning complex problems into simple, practical solutions. My goal is to grow in the AI/ML field and contribute to meaningful, impactful technology.
 
 
 ---
