@@ -5,6 +5,9 @@
 <img src="YOUR_FULL_BANNER_LINK_HERE" width="100%"/>
 
 <!-- Side GIF -->
+
+
+
 <a href="#">
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
 </a>
