@@ -1,10 +1,5 @@
-
-
-
 <!-- Banner -->
 <img src="YOUR_FULL_BANNER_LINK_HERE" width="100%"/>
-
-<!-- Side GIF -->
 
 
 
