@@ -1,5 +1,5 @@
-# 💫 About Me:
-![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge) 
+
+
 
 <!-- Banner -->
 <img src="YOUR_FULL_BANNER_LINK_HERE" width="100%"/>
@@ -12,7 +12,7 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
 </a>
 
-
+![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge) 
   
 # Hi, I'm Naim, <br>
 
