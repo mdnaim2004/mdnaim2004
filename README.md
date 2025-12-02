@@ -7,11 +7,13 @@ About Me:
 
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
-I'm studying Computer Science and Engineering (CSE) and I’m constantly exploring the world of technology.  
-I enjoy learning new tools, understanding different systems, and working on practical projects that help me grow as a learner.  
-I like experimenting with ideas, solving problems, and trying out new concepts to see how things work behind the scenes.  
-Right now, I'm focusing on improving my knowledge of modern technologies, networks, and how different components connect and operate together.  
-My goal is to keep expanding my skills step by step and build a strong foundation for my future in the tech world.
+
+I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.  
+I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
+I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.  
+Right now, I’m focusing on learning new concepts, exploring how different technologies connect, and building things that actually work in real scenarios.  
+I’m trying to grow step by step by learning, practicing, and applying what I know to simple real-world problems.
+
 
 
 ---
