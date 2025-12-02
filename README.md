@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHG4oRfqPR1sA/profile-displaybackgroundimage-shrink_350_1400/B4DZk6CWt8JkAY-/0/1757615322011?e=1766016000&amp;v=beta&amp;t=Y1pSBv0NxBGBbtRBCXhfiZLhKUDW_i2zFpX5zRcEkFU" alt="Md Naim" id="ember330" class="full-width evi-image ember-view">
 <a>
   
 </a>
@@ -9,7 +8,7 @@
 
 ![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge) 
   
-# Hi, I'm Naim, <br> <br>
+# Hi, I'm Naim, 
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  
 I like working on tasks that help me understand how things work behind the scenes.  
