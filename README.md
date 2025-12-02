@@ -7,11 +7,11 @@ About Me:
 
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
-I'm studying Computer Science and Engineering (CSE).
-I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical and hands-on projects.  
-I like working on tasks that help me understand how things work behind the scenes, whether it's building a simple feature, debugging a problem, or experimenting with a new tool.  
-I'm focused on growing step by step, strengthening my fundamentals, and building a solid foundation for my future in the tech field.  
-My goal is to continuously learn, improve, and create meaningful projects that reflect my growth as a developer.
+I'm studying Computer Science and Engineering (CSE) and I’m constantly exploring the world of technology.  
+I enjoy learning new tools, understanding different systems, and working on practical projects that help me grow as a learner.  
+I like experimenting with ideas, solving problems, and trying out new concepts to see how things work behind the scenes.  
+Right now, I'm focusing on improving my knowledge of modern technologies, networks, and how different components connect and operate together.  
+My goal is to keep expanding my skills step by step and build a strong foundation for my future in the tech world.
 
 
 ---
