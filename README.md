@@ -2,6 +2,14 @@
 ![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge) 
 ![badge](https://img.shields.io/badge/Exploring-AI%20%7C%20ML%20%7C%20DL-orange?style=for-the-badge&logo=tensorflow)
 
+<!-- Banner -->
+<img src="YOUR_FULL_BANNER_LINK_HERE" width="100%"/>
+
+<!-- Side GIF -->
+<a href="#">
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300" align="right" />
+</a>
+
 Hi, I'm Naim, <br><br>
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  
