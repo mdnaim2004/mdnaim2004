@@ -96,4 +96,10 @@ I'm focused on growing step by step and building a strong foundation for my futu
 
 [![](https://visitcount.itsvg.in/api?id=mdnaim2004&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=default&show_icons=true)
+
+---
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
