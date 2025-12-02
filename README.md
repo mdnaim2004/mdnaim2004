@@ -65,13 +65,6 @@ I actively work on:
 - Web apps: React UI + backend with Node.js / Firebase / MongoDB  
 - Mini AI research and experimental model building  
 
-### ➤ Add Your Featured Projects Here:
-```
-- 🔥 Face Recognition using OpenCV — [Repo](#)
-- 🧠 ML Classification Model — [Repo](#)
-- 🌐 Personal Portfolio (React + Tailwind) — [Repo](#)
-```
-
 ---
 
 ## 📚 What I'm Learning Now
