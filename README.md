@@ -12,7 +12,7 @@ I'm studying Computer Science and Engineering (CSE) and learning new things ever
 I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
 I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.  
 Right now, I’m focusing on learning new concepts, exploring how different technologies connect, and building things that actually work in real scenarios.  
-I’m trying to grow step by step by learning, practicing, and applying what I know to simple real-world problems.
+I’m trying to grow step by step by learning, practicing, <br></br>and applying what I know to simple real-world problems.
 
 
 
