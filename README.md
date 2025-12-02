@@ -14,7 +14,10 @@
 
 
   
-# Hi, I'm Naim, <br><br>
+# Hi, I'm Naim, <br>
+
+
+<br>
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  
 I like working on tasks that help me understand how things work behind the scenes.  
