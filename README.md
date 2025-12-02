@@ -1,29 +1,16 @@
-<table>
-  <tr>
-    <td width="60%">
+<!-- Right Side GIF -->
+<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
-![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge)
-
- <td width="40%" align="right">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300"/>
- </td>
-
-# Hi, I'm Naim 👋
+![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge)  
+About Me:
+---
+# Hi, I'm Naim 👋  
 
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical and hands-on projects.  
 I like working on tasks that help me understand how things work behind the scenes, whether it's building a simple feature, debugging a problem, or experimenting with a new tool.  
 I'm focused on growing step by step, strengthening my fundamentals, and building a solid foundation for my future in the tech field.  
 My goal is to continuously learn, improve, and create meaningful projects that reflect my growth as a developer.
-
-
-   
-  </tr>
-</table>
-
----
-
-
 
 
 ---
