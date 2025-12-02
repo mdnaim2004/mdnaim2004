@@ -12,11 +12,8 @@
 ---
 
 ## About Me
+Hi, I'm Naim, a CSE Student passionate about exploring ML & AI. Currently I'm learning and building smarter models to solve real world problems using data and Algorithms.
 
-- I'm a Computer Science & Engineering student currently exploring AI, ML, and DL.
-- Actively practicing on Kaggle and building projects to apply algorithms and models.
-- I enjoy full‑stack web development and working with JavaScript, React, Node.js, and modern tooling.
-- Motivated to contribute to open-source, collaborate on research, and pursue internship opportunities.
 
 ---
 
