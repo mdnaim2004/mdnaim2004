@@ -8,7 +8,8 @@ About Me:
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
 
-I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.  
+I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.
+
 I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
 I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.
 
