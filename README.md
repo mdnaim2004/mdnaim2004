@@ -9,11 +9,11 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
 </a>
 
-Hi, I'm Naim, <br><br>
+# Hi, I'm Naim, <br><br>
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical projects.  
 I like working on tasks that help me understand how things work behind the scenes.  
-I'm focused on growing step by step and building a strong foundation for my future in the tech field.<br>
+I'm focused on growing step by step and building a strong foundation for <br> my future in the tech field.<br>
 
 ---
 
@@ -39,7 +39,7 @@ I'm focused on growing step by step and building a strong foundation for my futu
 
 ---
 
-## 🤖 AI / Machine Learning
+##  AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -96,10 +96,6 @@ I'm focused on growing step by step and building a strong foundation for my futu
 
 [![](https://visitcount.itsvg.in/api?id=mdnaim2004&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=default&show_icons=true)
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
