@@ -1,10 +1,11 @@
 <!-- Right Side GIF -->
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
 ![badge](https://img.shields.io/badge/Student-CSE-blue?style=for-the-badge)  
 About Me:
 ---
 # Hi, I'm Naim 👋  
+
+<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
 I'm studying Computer Science and Engineering (CSE) at Pundra University of Science and Technology.  
 I enjoy learning new technologies, exploring different programming concepts, and improving my skills through practical and hands-on projects.  
