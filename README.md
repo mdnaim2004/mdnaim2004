@@ -1,4 +1,8 @@
 <!-- Banner -->
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHG4oRfqPR1sA/profile-displaybackgroundimage-shrink_350_1400/B4DZk6CWt8JkAY-/0/1757615322011?e=1766016000&amp;v=beta&amp;t=Y1pSBv0NxBGBbtRBCXhfiZLhKUDW_i2zFpX5zRcEkFU" alt="Md Naim" id="ember330" class="full-width evi-image ember-view" width="400" align="right">
+<a>
+  
+</a>
 <a href="#">
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
 </a>
@@ -92,6 +96,6 @@ I'm focused on growing step by step and building a strong foundation for <br> my
 
 [![](https://visitcount.itsvg.in/api?id=mdnaim2004&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHG4oRfqPR1sA/profile-displaybackgroundimage-shrink_350_1400/B4DZk6CWt8JkAY-/0/1757615322011?e=1766016000&amp;v=beta&amp;t=Y1pSBv0NxBGBbtRBCXhfiZLhKUDW_i2zFpX5zRcEkFU" alt="Md Naim" id="ember330" class="full-width evi-image ember-view">
 
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
