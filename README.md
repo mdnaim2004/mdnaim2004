@@ -6,7 +6,7 @@
 
 <!-- Side GIF -->
 <a href="#">
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" align="right" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350" align="right" />
 </a>
 
 # Hi, I'm Naim, <br><br>
