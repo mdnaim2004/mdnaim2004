@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="YOUR_FULL_BANNER_LINK_HERE" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHG4oRfqPR1sA/profile-displaybackgroundimage-shrink_350_1400/B4DZk6CWt8JkAY-/0/1757615322011?e=1766016000&amp;v=beta&amp;t=Y1pSBv0NxBGBbtRBCXhfiZLhKUDW_i2zFpX5zRcEkFU" alt="Md Naim" id="ember330" class="full-width evi-image ember-view">
 
 
 
