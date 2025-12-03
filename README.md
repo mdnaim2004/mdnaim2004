@@ -105,4 +105,7 @@ And applying what I know to simple real-world problems.
 
 
 ---
+## My Github Contribution
+![snake gif](https://github.com/mdnaim2004/mdnaim2004/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
