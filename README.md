@@ -105,10 +105,10 @@ And applying what I know to simple real-world problems.
 
 
 ---
-## 🐍 My GitHub Contribution Snake
+##  My GitHub Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
