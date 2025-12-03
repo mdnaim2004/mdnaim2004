@@ -111,9 +111,7 @@ And applying what I know to simple real-world problems.
 ---
 ##  My GitHub Contribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<img alt="github-snake.svg" src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/a2201c6543fbed2fc7f7056f551e8e8b94f3cc70/assets/github-snake.svg" height="192">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
