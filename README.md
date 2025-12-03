@@ -16,7 +16,11 @@ I like experimenting with ideas and solving problems that help me think in a rea
 Right now, I’m focusing on learning new concepts, exploring how different technologies connect, and building things that actually work in real scenarios.  
 I’m trying to grow step by step by learning, practicing, 
 And applying what I know to simple real-world problems.
+---
 
+
+
+<img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg" alt="" style="max-width: 100%;">
 
 
 
