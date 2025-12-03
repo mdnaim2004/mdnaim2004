@@ -110,7 +110,7 @@ And applying what I know to simple real-world problems.
 
 ##  My GitHub Contribution
 
-<img alt="github-snake.svg" src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/a2201c6543fbed2fc7f7056f551e8e8b94f3cc70/assets/github-snake.svg" height="192">
+![snake gif](https://github.com/mdnaim2004/mdnaim2004/blob/output/github-snake-dark.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
