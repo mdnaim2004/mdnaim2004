@@ -105,4 +105,7 @@ And applying what I know to simple real-world problems.
 
 
 ---
+
+## Contribution
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
