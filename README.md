@@ -20,7 +20,7 @@ And applying what I know to simple real-world problems.
 
 
 ---
-<img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/pacman-contribution-graph.svg" alt="" style="max-width: 100%;">
 
 
 
