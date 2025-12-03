@@ -105,7 +105,11 @@ And applying what I know to simple real-world problems.
 
 
 ---
-## My Github Contribution
-![snake gif](https://github.com/mdnaim2004/mdnaim2004/blob/output/github-contribution-grid-snake.svg)
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
