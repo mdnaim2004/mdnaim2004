@@ -9,7 +9,7 @@ About Me:
 
 
 I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.
----
+
 I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
 I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.
 
