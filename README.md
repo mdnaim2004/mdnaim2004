@@ -9,17 +9,17 @@ About Me:
 
 
 I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.
-
+---
 I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
 I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.
 
 Right now, I’m focusing on learning new concepts, exploring how different technologies connect, and building things that actually work in real scenarios.  
 I’m trying to grow step by step by learning, practicing, 
 And applying what I know to simple real-world problems.
+
+
+
 ---
-
-
-
 <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg" alt="" style="max-width: 100%;">
 
 
