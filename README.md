@@ -98,7 +98,7 @@ And applying what I know to simple real-world problems.
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 
