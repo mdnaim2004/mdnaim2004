@@ -4,7 +4,6 @@
 About Me:
 ---
 # Hi, I'm Naim 👋  
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="34">
 ---
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
@@ -19,6 +18,7 @@ I’m trying to grow step by step by learning, practicing,
 And applying what I know to simple real-world problems.
 
 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="34">
 
 ---
 <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/output/pacman-contribution-graph.svg" alt="" style="max-width: 100%;">
