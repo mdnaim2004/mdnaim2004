@@ -26,7 +26,7 @@ And applying what I know to simple real-world problems.
 
 
 ## 🌐 Socials:
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/naim.islam.411974) 
@@ -38,13 +38,13 @@ And applying what I know to simple real-world problems.
 
 ---
 
-#  Tech Stack:
-<div style="width: 100%;">
+<!--#  Tech Stack:
+<!-- <div style="width: 100%;">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    style="max-width: 100%; height: auto;"
+     style="max-width: 100%; height: auto; display: block;"
   >
-</div>
+</div> -->
 
 
 
@@ -53,11 +53,11 @@ And applying what I know to simple real-world problems.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 ---
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ##  AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -72,34 +72,34 @@ And applying what I know to simple real-world problems.
 
 ---
 
-## 🕸️ Web Development
+<!--## 🕸️ Web Development -->
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
-### Frontend
+<!--### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
-### Backend
+<!--### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
-### Database
+<!-- ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ---
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ##  Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -107,7 +107,7 @@ And applying what I know to simple real-world problems.
 
 
 ---
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -116,14 +116,16 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com/?user=mdnaim2004)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
