@@ -39,8 +39,14 @@ And applying what I know to simple real-world problems.
 ---
 
 #  Tech Stack:
+<div style="width: 100%;">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    style="width: 100%; height: auto;"
+  >
+</div>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 
 ## 🔹 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
