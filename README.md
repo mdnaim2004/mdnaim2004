@@ -95,11 +95,8 @@ And applying what I know to simple real-world problems.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ---
-
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ##  Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -116,16 +113,16 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
 ## 🔥 GitHub Streak
 ![Streak](https://streak-stats.demolab.com/?user=mdnaim2004)
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
+
+---
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
@@ -140,5 +137,3 @@ And applying what I know to simple real-world problems.
 ![snake gif](https://github.com/mdnaim2004/mdnaim2004/blob/output/github-snake-dark.svg)
 
 <img src="https://camo.githubusercontent.com/3010d2c7e752bc7845df08067b0c9a858a6c20f7ef7116505b7cdea2b42ee738/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266772616469656e7453746172743d464644373030266772616469656e74456e643d464634353030266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;gradientStart=FFD700&amp;gradientEnd=FF4500&amp;height=150&amp;section=footer" style="max-width: 100%;">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
