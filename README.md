@@ -2,9 +2,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+👋;Hi,+I'm+Naim;Computer+Science+Student;Exploring+%7C+Practicing+%7C+Learning;Building+Step+by+Step;Learning+New+Things+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Welcome+to+my+profile;Hi%2C+I%27m+Naim;Computer+Science+Student;Learning+and+growing+step+by+step;Building+Step+by+Step;Learning+New+Things+Every+Day" alt="Typing SVG" />
 </p>
-
 
 ---
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
@@ -194,6 +193,13 @@ And applying what I know to simple real-world problems.
 
 ## github WorkFlow
 <img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-green-animate.svg" />
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=22C55E&center=true&vCenter=true&width=560&lines=Still+learning+every+day.;Growing+with+patience.;Moving+forward%2C+one+step+at+a+time." />
+</p>
 
 
 ---
