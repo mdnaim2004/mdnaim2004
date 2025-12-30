@@ -21,13 +21,28 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=mdnaim2004&label=Views&countColor=%2336BCF7" />
-  <img src="https://img.shields.io/github/followers/mdnaim2004?style=flat&logo=github&label=Followers" />
-  <img src="https://badges.strrl.dev/repos/mdnaim2004?style=flat&label=Repos" />
-  <img src="https://img.shields.io/github/stars/mdnaim2004?style=flat&logo=github&label=Stars" />
-  <img src="https://badges.strrl.dev/commits/daily/mdnaim2004?style=flat&label=Commits" />
-</p>
+<div dir="auto">
+  <a href="https://visitorbadge.io/status?path=mdnaim2004" rel="nofollow">
+    <img src="https://api.visitorbadge.io/api/visitors?path=mdnaim2004&label=Profile%20Views&countColor=%238A2BE2" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/mdnaim2004">
+    <img alt="Followers" src="https://img.shields.io/github/followers/mdnaim2004?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/mdnaim2004?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/mdnaim2004?color=%238A2BE2&style=for-the-badge&label=Repos" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/mdnaim2004">
+    <img alt="Stars" src="https://img.shields.io/github/stars/mdnaim2004?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/mdnaim2004">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/mdnaim2004?color=%238A2BE2&style=for-the-badge&label=Commits+Today" style="max-width: 100%;">
+  </a>
+</div>
+
 
 ---
 
