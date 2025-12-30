@@ -190,7 +190,15 @@ And applying what I know to simple real-world problems.
 ---
 
 ## github WorkFlow
-<img src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-green-animate.svg" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-night-green.svg">
+    <img width="850"
+         src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-green.svg">
+  </picture>
+</p>
+
 
 
 ---
