@@ -21,123 +21,136 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<div dir="auto">
-  <a href="https://visitorbadge.io/status?path=mdnaim2004" rel="nofollow">
-    <img src="https://api.visitorbadge.io/api/visitors?path=mdnaim2004&label=Profile%20Views&countColor=%238A2BE2" style="max-width: 100%;">
-  </a>
+<table align="center">
 
-  <a href="https://github.com/mdnaim2004">
-    <img alt="Followers" src="https://img.shields.io/github/followers/mdnaim2004?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers" style="max-width: 100%;">
-  </a>
+<!-- Programming -->
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=c" width="60"/><br><b>C</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br><b>C++</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=java" width="60"/><br><b>Java</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br><b>Python</b>
+</td>
+</tr>
 
-  <a href="https://github.com/mdnaim2004?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/mdnaim2004?color=%238A2BE2&style=for-the-badge&label=Repos" style="max-width: 100%;">
-  </a>
+<!-- ML / Data -->
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=js" width="60"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="60"/><br><b>NumPy</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="60"/><br><b>Pandas</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="60"/><br><b>scikit-learn</b>
+</td>
+</tr>
 
-  <a href="https://github.com/mdnaim2004">
-    <img alt="Stars" src="https://img.shields.io/github/stars/mdnaim2004?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars" style="max-width: 100%;">
-  </a>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br><b>TensorFlow</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br><b>PyTorch</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="60"/><br><b>OpenCV</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=keras" width="60"/><br><b>Keras</b>
+</td>
+</tr>
 
-  <a href="https://github.com/mdnaim2004">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/mdnaim2004?color=%238A2BE2&style=for-the-badge&label=Commits+Today" style="max-width: 100%;">
-  </a>
-</div>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="60"/><br><b>Matplotlib</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="60"/><br><b>SciPy</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br><b>Git</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br><b>GitHub</b>
+</td>
+</tr>
 
+<!-- Tools -->
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><b>VS Code</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="60"/><br><b>PowerShell</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=windows" width="60"/><br><b>Windows</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="60"/><br><b>draw.io</b>
+</td>
+</tr>
 
----
+<!-- Docs & AI -->
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=latex" width="60"/><br><b>LaTeX</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="60"/><br><b>ChatGPT</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="60"/><br><b>Gemini</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="60"/><br><b>Grok</b>
+</td>
+</tr>
 
-## 🌐 Socials:
+<!-- Design & Media -->
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=figma" width="60"/><br><b>Figma</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="60"/><br><b>Canva</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/obsstudio.svg" width="60"/><br><b>OBS Studio</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/capcut.svg" width="60"/><br><b>CapCut</b>
+</td>
+</tr>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/naim.islam.411974)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naim-00a164381/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30657242/naim-islam)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://x.com/naimislam16543)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naimislam16543)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnaim16543@gmail.com)
+<!-- Communication -->
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anydesk.svg" width="60"/><br><b>AnyDesk</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=discord" width="60"/><br><b>Discord</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftedge.svg" width="60"/><br><b>Edge</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="60"/><br><b>Chrome</b>
+</td>
+</tr>
 
----
+</table>
 
-## 🔹 Programming Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🧠 AI / Machine Learning
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
----
-
----
-
-## 🛠️ Using Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 📝 Diagram & Documentation
-
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## 🤖 AI Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1F2937?style=for-the-badge&logo=perplexity&logoColor=white)
-
----
-
-## 🎨 Design Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 Productivity
-
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 🎬 Media & Remote
-
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
-
----
-
-## 🌐 Communication & Browser
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
-<a href="https://www.google.com/chrome/"><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Badge"></a>
 ---
 
 ##  GitHub Stats:
