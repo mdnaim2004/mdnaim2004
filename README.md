@@ -22,133 +22,129 @@ And applying what I know to simple real-world problems.
 
 <table align="center">
 
-<!-- Programming -->
+<!-- Programming + Core -->
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=c" width="60"/><br><b>C</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br><b>C++</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>C++</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br><b>Java</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br><b>Python</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="55"/><br><b>Git</b>
 </td>
 </tr>
 
 <!-- ML / Data -->
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=js" width="60"/><br><b>JavaScript</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="55"/><br><b>NumPy</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="60"/><br><b>NumPy</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="55"/><br><b>Pandas</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="60"/><br><b>Pandas</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="55"/><br><b>scikit-learn</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="60"/><br><b>scikit-learn</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br><b>TensorFlow</b>
 </td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br><b>TensorFlow</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br><b>PyTorch</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br><b>PyTorch</b>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="60"/><br><b>OpenCV</b>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=keras" width="60"/><br><b>Keras</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="55"/><br><b>OpenCV</b>
 </td>
 </tr>
 
+<!-- ML Utils -->
 <tr>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="60"/><br><b>Matplotlib</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=keras" width="55"/><br><b>Keras</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="60"/><br><b>SciPy</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="55"/><br><b>Matplotlib</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=git" width="60"/><br><b>Git</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="55"/><br><b>SciPy</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github" width="60"/><br><b>GitHub</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="55"/><br><b>PowerShell</b>
 </td>
 </tr>
 
-<!-- Tools -->
+<!-- OS / Docs -->
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><b>VS Code</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=windows" width="55"/><br><b>Windows</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="60"/><br><b>PowerShell</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="55"/><br><b>draw.io</b>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=windows" width="60"/><br><b>Windows</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=latex" width="55"/><br><b>LaTeX</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="60"/><br><b>draw.io</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="55"/><br><b>ChatGPT</b>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="55"/><br><b>Gemini</b>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="55"/><br><b>Grok</b>
 </td>
 </tr>
 
-<!-- Docs & AI -->
+<!-- Design / Media / Communication -->
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=latex" width="60"/><br><b>LaTeX</b>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="60"/><br><b>ChatGPT</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="55"/><br><b>Canva</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="60"/><br><b>Gemini</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/obsstudio.svg" width="55"/><br><b>OBS</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="60"/><br><b>Grok</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/capcut.svg" width="55"/><br><b>CapCut</b>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anydesk.svg" width="55"/><br><b>AnyDesk</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=discord" width="55"/><br><b>Discord</b>
 </td>
 </tr>
 
-<!-- Design & Media -->
+<!-- Browser -->
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=figma" width="60"/><br><b>Figma</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftedge.svg" width="55"/><br><b>Edge</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="60"/><br><b>Canva</b>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="55"/><br><b>Chrome</b>
 </td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/obsstudio.svg" width="60"/><br><b>OBS Studio</b>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/capcut.svg" width="60"/><br><b>CapCut</b>
-</td>
-</tr>
-
-<!-- Communication -->
-<tr>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anydesk.svg" width="60"/><br><b>AnyDesk</b>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=discord" width="60"/><br><b>Discord</b>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftedge.svg" width="60"/><br><b>Edge</b>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="60"/><br><b>Chrome</b>
-</td>
+<td colspan="4"></td>
 </tr>
 
 </table>
+
 
 ---
 
@@ -159,6 +155,11 @@ And applying what I know to simple real-world problems.
 
 ---
 
+## 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=github-dark-green&hide_border=true" />
+
+---
+
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&row=1&margin-w=8)
 
@@ -166,14 +167,6 @@ And applying what I know to simple real-world problems.
 
 ## My GitHub Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim2004&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdnaim2004&theme=default&hide_border=true" />
-</p>
-
 
 ---
 
@@ -198,7 +191,7 @@ And applying what I know to simple real-world problems.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=22C55E&center=true&vCenter=true&width=560&lines=Still+learning+every+day.;Growing+with+patience.;Moving+forward%2C+one+step+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1500&color=22C55E&center=true&vCenter=true&width=560&lines=Still+learning+every+day.;Growing+with+patience.;Moving+forward%2C+one+step+at+a+time." />
 </p>
 
 
