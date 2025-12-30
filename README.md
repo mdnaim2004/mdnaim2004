@@ -21,6 +21,16 @@ And applying what I know to simple real-world problems.
 
 ---
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=mdnaim2004&label=Views&countColor=%2336BCF7" />
+  <img src="https://img.shields.io/github/followers/mdnaim2004?style=flat&logo=github&label=Followers" />
+  <img src="https://badges.strrl.dev/repos/mdnaim2004?style=flat&label=Repos" />
+  <img src="https://img.shields.io/github/stars/mdnaim2004?style=flat&logo=github&label=Stars" />
+  <img src="https://badges.strrl.dev/commits/daily/mdnaim2004?style=flat&label=Commits" />
+</p>
+
+---
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) 
