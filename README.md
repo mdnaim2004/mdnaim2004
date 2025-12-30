@@ -137,6 +137,11 @@ And applying what I know to simple real-world problems.
 
 ---
 
+## My GitHub Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim2004&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
+
+---
+
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=mdnaim2004&theme=tokyonight&hide_border=true)
 
