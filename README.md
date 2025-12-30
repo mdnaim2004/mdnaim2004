@@ -168,7 +168,10 @@ And applying what I know to simple real-world problems.
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=mdnaim2004&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdnaim2004&theme=default&hide_border=true" />
+</p>
+
 
 ---
 
