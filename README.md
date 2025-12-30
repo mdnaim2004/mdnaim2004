@@ -1,7 +1,4 @@
 <!-- Right Side GIF -->
-
-
-About Me:
 ---
 # Hi, I'm Naim 👋  
 ---
@@ -26,7 +23,7 @@ And applying what I know to simple real-world problems.
 
 
 ## 🌐 Socials:
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
+
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/naim.islam.411974) 
@@ -74,8 +71,6 @@ And applying what I know to simple real-world problems.
 
 <!--## 🕸️ Web Development -->
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
-
 <!--### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -83,28 +78,48 @@ And applying what I know to simple real-world problems.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 <!--### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
-
 <!-- ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) -->
 
 
 ---
 
-##  Design Tools
+##  Using Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+### Diagram & Documentation
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+###  AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1F2937?style=for-the-badge&logo=perplexity&logoColor=white)
+
+###  Productivity
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+###  Media & Remote
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
+
+### Communication & Browser
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+
+
 
 ---
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
