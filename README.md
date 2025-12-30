@@ -143,12 +143,12 @@ And applying what I know to simple real-world problems.
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&row=1&margin-w=8)
 
 ---
 
 ## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com/?user=mdnaim2004&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mdnaim2004&theme=tokyonight&hide_border=true)
 
 ---
 
