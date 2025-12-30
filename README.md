@@ -17,7 +17,7 @@ And applying what I know to simple real-world problems.
 
 
 ---
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<!--<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> -->
 
 ---
 
@@ -35,16 +35,6 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<!--#  Tech Stack:
-<!-- <div style="width: 100%;">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-     style="max-width: 100%; height: auto; display: block;"
-  >
-</div> -->
-
-
-
 ## 🔹 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -54,7 +44,6 @@ And applying what I know to simple real-world problems.
 
 ---
 
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> -->
 
 ##  AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -135,7 +124,7 @@ And applying what I know to simple real-world problems.
 
 ---
 
-#  GitHub Stats:
+##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mdnaim2004&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
