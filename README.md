@@ -1,14 +1,16 @@
 <!-- Right Side GIF -->
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&pause=100000&color=16A34A&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=100000&color=16A34A&center=true&vCenter=true&width=1000&lines=I'm+Naim%2C+a+Computer+Science+student." />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Naim%2C+a+Computer+Science+student." />
 </p>
-
 
 ---
+
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
 
@@ -159,7 +161,7 @@ And applying what I know to simple real-world problems.
 ---
 
 ## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=github-dark-green&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=react&hide_border=true" />
 
 ---
 
