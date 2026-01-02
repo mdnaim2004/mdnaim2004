@@ -48,7 +48,7 @@ And applying what I know to simple real-world problems.
 <img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
 </td>
 <td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="55"/><br><b>Git</b>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="55"/><br><b>Git</b>
 </td>
 </tr>
 
@@ -58,7 +58,7 @@ And applying what I know to simple real-world problems.
 <img src="https://vectorseek.com/wp-content/uploads/2023/08/Numpy-Logo-Vector.svg-.png" width="55"/><br><b>NumPy</b>
 </td>
 <td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="55"/><br><b>Pandas</b>
+<img src="https://miro.medium.com/v2/resize:fit:690/1*zYCh4pjPJEmZnqGwlbH3Gw.png" width="55"/><br><b>Pandas</b>
 </td>
 <td align="center" width="130">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="55"/><br><b>scikit-learn</b>
@@ -143,7 +143,7 @@ And applying what I know to simple real-world problems.
 <!-- Browser -->
 <tr>
 <td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftedge.svg" width="55"/><br><b>Edge</b>
+<img src="https://logos-world.net/wp-content/uploads/2023/06/Microsoft-Edge-Logo.png" width="55"/><br><b>Edge</b>
 </td>
 <td align="center" width="130">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="55"/><br><b>Chrome</b>
