@@ -143,7 +143,7 @@ And applying what I know to simple real-world problems.
 <!-- Browser -->
 <tr>
 <td align="center" width="130">
-<img src="https://logos-world.net/wp-content/uploads/2023/06/Microsoft-Edge-Logo.png" width="55"/><br><b>Edge</b>
+<img src="https://logos-world.net/wp-content/uploads/2023/06/Microsoft-Edge-Logo.png" width="70"/><br><b>Edge</b>
 </td>
 <td align="center" width="130">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="55"/><br><b>Chrome</b>
