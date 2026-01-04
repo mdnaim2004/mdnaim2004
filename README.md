@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# mdnaim2004" 
-=======
 <!-- Right Side GIF -->
 ---
 
