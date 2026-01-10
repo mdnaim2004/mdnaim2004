@@ -49,7 +49,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- ML / Data -->
+<!-- ML / Data --
 <tr>
 <td align="center" width="130">
 <img src="https://vectorseek.com/wp-content/uploads/2023/08/Numpy-Logo-Vector.svg-.png" width="55"/><br><b>NumPy</b>
@@ -71,7 +71,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- ML Utils -->
+<!-- ML Utils --
 <tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=keras" width="55"/><br><b>Keras</b>
@@ -93,7 +93,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- OS / Docs -->
+!-- OS / Docs -->
 <tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=windows" width="55"/><br><b>Windows</b>
