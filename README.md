@@ -26,7 +26,7 @@ And applying what I know to simple real-world problems.
 
 <table align="center">
 
-<!-- Programming + Core --
+-- Programming + Core --
 <tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
@@ -48,7 +48,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- ML / Data ---
+-- ML / Data ---
 <tr>
 <td align="center" width="130">
 <img src="https://vectorseek.com/wp-content/uploads/2023/08/Numpy-Logo-Vector.svg-.png" width="55"/><br><b>NumPy</b>
@@ -70,7 +70,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- ML Utils --
+-- ML Utils --
 <tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=keras" width="55"/><br><b>Keras</b>
@@ -114,7 +114,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- Design / Media / Communication --
+-- Design / Media / Communication --
 <tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
@@ -136,7 +136,7 @@ And applying what I know to simple real-world problems.
 </td>
 </tr>
 
-<!-- Browser --
+-- Browser --
 <tr>
 <td align="center" width="130">
 <img src="https://logos-world.net/wp-content/uploads/2023/06/Microsoft-Edge-Logo.png" width="70"/><br><b>Edge</b>
