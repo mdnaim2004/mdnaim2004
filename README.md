@@ -1,4 +1,4 @@
-<-- Right Side GIF --
+<!-- Right Side GIF --
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum" />
