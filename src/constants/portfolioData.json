@@ -1,0 +1,113 @@
+{
+  "name": "Md Naim Babu",
+  "titleFrames": [
+    "AI/ML Engineer in Progress",
+    "CSE Undergraduate",
+    "Research Enthusiast",
+    "Competitive Programmer"
+  ],
+  "about": "I am a Computer Science and Engineering (CSE) undergraduate from Pundra University of Science and Technology, Bangladesh. I am driven by curiosity in Artificial Intelligence, Machine Learning, Data Science, and Human-Centered Research.",
+  "mission": "My long-term goal is to become an AI/ML Research Engineer and pursue higher studies abroad to work on impactful research problems.",
+  "skills": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Science",
+    "Research",
+    "Competitive Programming",
+    "Open Source",
+    "Problem Solving"
+  ],
+  "techStack": {
+    "languages": ["Python", "C++", "SQL", "JavaScript"],
+    "frameworks": ["React", "NumPy", "Pandas", "Scikit-Learn", "PyTorch", "TensorFlow", "OpenCV"],
+    "tools": ["Git", "GitHub", "VS Code", "Linux", "Kaggle"]
+  },
+  "projects": [
+    {
+      "title": "Stress Detection Using Keystroke Dynamics",
+      "subtitle": "Current Thesis Project",
+      "description": "A thesis-focused system that engineers keystroke patterns, applies regression-based ML models, and predicts human stress from typing behavior.",
+      "features": [
+        "Keystroke feature engineering",
+        "Machine learning regression",
+        "Human stress prediction",
+        "Data preprocessing",
+        "Statistical feature extraction"
+      ],
+      "stack": ["Python", "Pandas", "Scikit-Learn", "Research"],
+      "github": "#",
+      "demo": "#",
+      "image": "Keystroke Stress Intelligence"
+    },
+    {
+      "title": "Chest X-Ray Pneumonia Detection",
+      "subtitle": "Medical Image Classification",
+      "description": "A deep learning workflow using EfficientNetB4 in PyTorch for classifying pneumonia from chest X-ray images with strong AUC performance.",
+      "features": ["EfficientNetB4", "Medical imaging", "PyTorch", "AUC ~0.85"],
+      "stack": ["Python", "PyTorch", "Computer Vision"],
+      "github": "#",
+      "demo": "#",
+      "image": "Pneumonia Classifier"
+    },
+    {
+      "title": "Brain Tumor Detection",
+      "subtitle": "CNN-based Medical Imaging",
+      "description": "A CNN-driven model for identifying potential brain tumors from imaging data using deep learning and robust preprocessing.",
+      "features": ["CNN architecture", "Medical imaging", "Deep learning"],
+      "stack": ["Python", "TensorFlow", "OpenCV"],
+      "github": "#",
+      "demo": "#",
+      "image": "Brain Tumor Vision"
+    },
+    {
+      "title": "Secure National ID Management System",
+      "subtitle": "Systems + Security",
+      "description": "A secure desktop system built with C, GTK, SQLite, and OpenSSL for encrypted data handling and robust identity operations.",
+      "features": ["C", "GTK", "SQLite", "OpenSSL"],
+      "stack": ["C", "SQLite", "OpenSSL", "GTK"],
+      "github": "#",
+      "demo": "#",
+      "image": "Secure ID Platform"
+    },
+    {
+      "title": "Mental Health Prediction",
+      "subtitle": "Machine Learning Project",
+      "description": "A machine learning pipeline for predicting mental health indicators from structured behavioral data.",
+      "features": ["Feature engineering", "Model evaluation", "Predictive analytics"],
+      "stack": ["Python", "Pandas", "Scikit-Learn"],
+      "github": "#",
+      "demo": "#",
+      "image": "Mental Health Insights"
+    }
+  ],
+  "timeline": [
+    {
+      "phase": "Education",
+      "title": "CSE Undergraduate Journey",
+      "detail": "Pundra University of Science and Technology, Bangladesh"
+    },
+    {
+      "phase": "Learning Journey",
+      "title": "Building AI/ML Foundations",
+      "detail": "Hands-on projects in ML, deep learning, and data science with strong coding practice"
+    },
+    {
+      "phase": "Future Goals",
+      "title": "AI/ML Research Engineer Path",
+      "detail": "Pursue higher studies abroad and contribute to meaningful AI research"
+    }
+  ],
+  "achievements": [
+    "Kaggle Notebook Expert",
+    "300+ LeetCode Problems Solved",
+    "Active GitHub Developer",
+    "AI & ML Research Enthusiast"
+  ],
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/mdnaim2004" },
+    { "label": "Kaggle", "url": "https://www.kaggle.com/mdnaimislam165436" },
+    { "label": "LeetCode", "url": "https://leetcode.com/u/mdnaim2004/" },
+    { "label": "LinkedIn", "url": "#" },
+    { "label": "Email", "url": "mailto:naim.cse2004@gmail.com" }
+  ]
+}
