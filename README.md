@@ -1,4 +1,4 @@
-<!-- Right Side GIF --
+-- Right Side GIF --
 ---
 ---
 <p align="center">
