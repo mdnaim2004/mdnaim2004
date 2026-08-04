@@ -1,215 +1,257 @@
--- Right Side GIF --
----
----
+<!-- Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum" alt="Assalamu Alaikum" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Naim%2C+a+Computer+Science+student." />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Naim%2C+a+Computer+Science+student." alt="I'm Naim, a Computer Science student" />
 </p>
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
+<!-- About Me with Right-Side GIF -->
 
-
-I'm studying Computer Science and Engineering (CSE) and learning new things every day as I explore different areas of technology.
-
-I enjoy trying out new tools, understanding how systems work, and building small practical projects to improve my skills.  
-I like experimenting with ideas and solving problems that help me think in a real-world way and understand technology more clearly.
-
-Right now, I’m focusing on learning new concepts, exploring how different technologies connect, and building things that actually work in real scenarios.  
-I’m trying to grow step by step by learning, practicing, 
-And applying what I know to simple real-world problems.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>About Me</h2>
+      <p>
+        I'm a Computer Science and Engineering (CSE) student who enjoys learning
+        how technology works and exploring new ideas through practical projects.
+      </p>
+      <p>
+        I like experimenting with tools, understanding systems, and solving
+        problems that connect technical concepts with real-world applications.
+      </p>
+      <p>
+        Currently, I'm focusing on AI and machine learning, problem-solving, and
+        building projects that strengthen my practical skills. I'm growing step
+        by step by learning, practicing, and applying what I know.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350" alt="Developer animation" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+## Skills and Tools
 
 <table align="center">
 
--- Programming + Core --
+<!-- Programming Languages -->
 <tr>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>C++</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
-</td>
-<td align="center" width="130">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="55"/><br><b>Git</b>
-</td>
+  <th colspan="6">Programming Languages</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=c" width="55" alt="C" /><br><b>C</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++" /><br><b>C++</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" /><br><b>Java</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" /><br><b>Python</b>
+  </td>
+  <td colspan="2"></td>
 </tr>
 
--- ML / Data ---
+<!-- Machine Learning and Data -->
 <tr>
-<td align="center" width="130">
-<img src="https://vectorseek.com/wp-content/uploads/2023/08/Numpy-Logo-Vector.svg-.png" width="55"/><br><b>NumPy</b>
-</td>
-<td align="center" width="130">
-<img src="https://miro.medium.com/v2/resize:fit:690/1*zYCh4pjPJEmZnqGwlbH3Gw.png" width="55"/><br><b>Pandas</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="55"/><br><b>scikit-learn</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br><b>TensorFlow</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br><b>PyTorch</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="55"/><br><b>OpenCV</b>
-</td>
+  <th colspan="6">Machine Learning and Data</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/numpy/4D77CF" width="55" alt="NumPy" /><br><b>NumPy</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas" /><br><b>Pandas</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="scikit-learn" /><br><b>scikit-learn</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="55" alt="TensorFlow" /><br><b>TensorFlow</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="55" alt="PyTorch" /><br><b>PyTorch</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" alt="OpenCV" /><br><b>OpenCV</b>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/keras/D00000" width="55" alt="Keras" /><br><b>Keras</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib" /><br><b>Matplotlib</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="55" alt="SciPy" /><br><b>SciPy</b>
+  </td>
+  <td colspan="3"></td>
 </tr>
 
--- ML Utils --
+<!-- Development Tools -->
 <tr>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=keras" width="55"/><br><b>Keras</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="55"/><br><b>Matplotlib</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="55"/><br><b>SciPy</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="55"/><br><b>PowerShell</b>
-</td>
+  <th colspan="6">Development Tools and Platforms</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" /><br><b>Git</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" /><br><b>GitHub</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" /><br><b>VS Code</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="55" alt="PowerShell" /><br><b>PowerShell</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=latex" width="55" alt="LaTeX" /><br><b>LaTeX</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="55" alt="draw.io" /><br><b>draw.io</b>
+  </td>
 </tr>
 
-!-- OS / Docs --
+<!-- Operating Systems and Browsers -->
 <tr>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=windows" width="55"/><br><b>Windows</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="55"/><br><b>draw.io</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=latex" width="55"/><br><b>LaTeX</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="55"/><br><b>ChatGPT</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="55"/><br><b>Gemini</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="55"/><br><b>Grok</b>
-</td>
+  <th colspan="6">Operating Systems and Browsers</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=windows" width="55" alt="Windows" /><br><b>Windows</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux" /><br><b>Linux</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://api.iconify.design/logos:microsoft-edge.svg" width="55" alt="Microsoft Edge" /><br><b>Edge</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" alt="Google Chrome" /><br><b>Chrome</b>
+  </td>
+  <td colspan="2"></td>
 </tr>
 
--- Design / Media / Communication --
+<!-- AI Tools -->
 <tr>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="55"/><br><b>Canva</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/obsstudio.svg" width="55"/><br><b>OBS</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/capcut.svg" width="55"/><br><b>CapCut</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anydesk.svg" width="55"/><br><b>AnyDesk</b>
-</td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=discord" width="55"/><br><b>Discord</b>
-</td>
+  <th colspan="6">AI Tools</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="55" alt="ChatGPT" /><br><b>ChatGPT</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" alt="Gemini" /><br><b>Gemini</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/grok.svg" width="55" alt="Grok" /><br><b>Grok</b>
+  </td>
+  <td colspan="3"></td>
 </tr>
 
--- Browser --
+<!-- Design, Media, and Communication -->
 <tr>
-<td align="center" width="130">
-<img src="https://logos-world.net/wp-content/uploads/2023/06/Microsoft-Edge-Logo.png" width="70"/><br><b>Edge</b>
-</td>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="55"/><br><b>Chrome</b>
-</td>
-<td colspan="4"></td>
+  <th colspan="6">Design, Media, and Communication</th>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma" /><br><b>Figma</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="55" alt="Canva" /><br><b>Canva</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/obsstudio/302E31" width="55" alt="OBS Studio" /><br><b>OBS Studio</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/capcut.svg" width="55" alt="CapCut" /><br><b>CapCut</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.simpleicons.org/anydesk/EF443B" width="55" alt="AnyDesk" /><br><b>AnyDesk</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord" /><br><b>Discord</b>
+  </td>
 </tr>
 
 </table>
 
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naimNB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naim's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimNB&theme=tokyonight&hide_border=true&layout=compact" alt="Naim's most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naimNB&theme=tokyonight&hide_border=true" alt="Naim's GitHub streak" />
+</p>
 
 ---
 
-##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naimNB&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naimNB&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimNB&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naimNB&theme=tokyonight&row=1&column=7&margin-w=8&no-frame=true" alt="Naim's GitHub trophies" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naimNB&theme=react&hide_border=true" />
+## GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimNB&theme=tokyo-night&area=true&hide_border=true&custom_title=Naim%27s%20GitHub%20Activity" width="100%" alt="Naim's GitHub activity graph" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=naimNB&theme=merko&row=1&margin-w=8)
+## Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=naimNB&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Naim's top contributed repositories" />
+</p>
 
 ---
 
-## My GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimNB&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naimNB/naimNB/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=naimNB&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+## 3D Contribution Graph
 
----
-
-[![](https://visitcount.itsvg.in/api?id=naimNB&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
----
-
-
-##  My GitHub Contribution
-
-![snake gif](https://github.com/naimNB/naimNB/blob/output/github-snake-dark.svg)
-
----
-
-## github WorkFlow
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-night-green.svg">
-    <img width="850"
-         src="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-green.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-night-green.svg">
+    <img width="850" src="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-green.svg" alt="Naim's 3D contribution graph" />
   </picture>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1500&color=22C55E&center=true&vCenter=true&width=560&lines=Still+learning+every+day.;Growing+with+patience.;Moving+forward%2C+one+step+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1500&color=22C55E&center=true&vCenter=true&width=800&lines=Still+learning+every+day.;Growing+with+patience.;Moving+forward%2C+one+step+at+a+time." alt="Still learning every day" />
 </p>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=naimNB&icon=0&color=1" alt="Profile visit counter" />
+</p>
 
----
-
-<img src="https://camo.githubusercontent.com/3010d2c7e752bc7845df08067b0c9a858a6c20f7ef7116505b7cdea2b42ee738/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266772616469656e7453746172743d464644373030266772616469656e74456e643d464634353030266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;gradientStart=FFD700&amp;gradientEnd=FF4500&amp;height=150&amp;section=footer" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:22C55E&height=120&section=footer" width="100%" alt="Footer" />
