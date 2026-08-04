@@ -154,33 +154,33 @@ And applying what I know to simple real-world problems.
 ---
 
 ##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdnaim2004&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=naimNB&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=naimNB&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimNB&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naimNB&theme=react&hide_border=true" />
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=mdnaim2004&theme=merko&row=1&margin-w=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=naimNB&theme=merko&row=1&margin-w=8)
 
 ---
 
 ## My GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim2004&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimNB&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
 
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mdnaim2004&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=naimNB&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mdnaim2004&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=naimNB&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ---
@@ -188,7 +188,7 @@ And applying what I know to simple real-world problems.
 
 ##  My GitHub Contribution
 
-![snake gif](https://github.com/mdnaim2004/mdnaim2004/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/naimNB/naimNB/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -196,9 +196,9 @@ And applying what I know to simple real-world problems.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-night-green.svg">
+            srcset="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-night-green.svg">
     <img width="850"
-         src="https://raw.githubusercontent.com/mdnaim2004/mdnaim2004/main/profile-3d-contrib/profile-green.svg">
+         src="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-green.svg">
   </picture>
 </p>
 
