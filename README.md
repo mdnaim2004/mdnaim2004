@@ -38,6 +38,45 @@
 
 ---
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://github.com/naimNB">
+    <img src="https://img.shields.io/badge/GitHub-naimNB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-naim-00a164381/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Naim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://www.kaggle.com/mdnaimislam165436">
+    <img src="https://img.shields.io/badge/Kaggle-mdnaimislam165436-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile" />
+  </a>
+  <a href="mailto:mdnaim2568@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdnaim2568%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naim" />
+  </a>
+</p>
+
+## Problem-Solving Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/naimNB/">
+    <img src="https://img.shields.io/badge/LeetCode-naimNB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  </a>
+  <a href="https://codeforces.com/profile/naim2004">
+    <img src="https://img.shields.io/badge/Codeforces-naim2004-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+  </a>
+  <a href="https://www.codechef.com/users/naim2004">
+    <img src="https://img.shields.io/badge/CodeChef-naim2004-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/naimNB">
+    <img src="https://img.shields.io/badge/HackerRank-naimNB-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
+  </a>
+  <a href="https://vjudge.net/user/mdnaim2004">
+    <img src="https://img.shields.io/badge/VJudge-mdnaim2004-5B5B5B?style=for-the-badge" alt="VJudge profile" />
+  </a>
+</p>
+
+---
+
 ## Skills and Tools
 
 <table align="center">
@@ -77,26 +116,23 @@
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="scikit-learn" /><br><b>scikit-learn</b>
   </td>
   <td align="center" width="130">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="55" alt="TensorFlow" /><br><b>TensorFlow</b>
-  </td>
-  <td align="center" width="130">
     <img src="https://skillicons.dev/icons?i=pytorch" width="55" alt="PyTorch" /><br><b>PyTorch</b>
   </td>
   <td align="center" width="130">
     <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" alt="OpenCV" /><br><b>OpenCV</b>
   </td>
-</tr>
-<tr>
   <td align="center" width="130">
     <img src="https://cdn.simpleicons.org/keras/D00000" width="55" alt="Keras" /><br><b>Keras</b>
   </td>
+</tr>
+<tr>
   <td align="center" width="130">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib" /><br><b>Matplotlib</b>
   </td>
   <td align="center" width="130">
     <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="55" alt="SciPy" /><br><b>SciPy</b>
   </td>
-  <td colspan="3"></td>
+  <td colspan="4"></td>
 </tr>
 
 <!-- Development Tools -->
@@ -158,7 +194,15 @@
   <td align="center" width="130">
     <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/grok.svg" width="55" alt="Grok" /><br><b>Grok</b>
   </td>
-  <td colspan="3"></td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/claude-color.svg" width="55" alt="Claude" /><br><b>Claude</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/deepseek-color.svg" width="55" alt="DeepSeek" /><br><b>DeepSeek</b>
+  </td>
+  <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/kimi-color.svg" width="55" alt="Kimi" /><br><b>Kimi</b>
+  </td>
 </tr>
 
 <!-- Design, Media, and Communication -->
